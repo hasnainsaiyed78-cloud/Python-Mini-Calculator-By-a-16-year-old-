@@ -2,8 +2,6 @@ print("Hello ! , Person")
 name = input("What is your Name ?")
 name2 = input("What is your Age ?")
 name3 = input ("What is your Gender ?")
-# output = "Hello! " + name.capitalize() + " " + name3.capitalize()
-# output2 = name2
 output = f"Hello , {name} {name2} {name3}"
 print(output)
 print()
